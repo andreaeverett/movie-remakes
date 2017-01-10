@@ -1,4 +1,4 @@
-### Explaining and the popularity of movie remakes through the original
+### Explaining the popularity of movie remakes through the original
 
 A blog post describing the project and presenting some of the results is available at https://andreaeverett.github.io/blog/Film_Remakes/.
 
